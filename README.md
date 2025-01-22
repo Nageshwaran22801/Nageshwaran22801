@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Nageshwaran Gandhiraj]
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Nageshwaran Gandhiraj
 
 🌎 I am looking for **Full-Time Roles** in **Data Engineering**, **Full-Stack Development**, or related domains where I can contribute my skills to create impactful solutions.  
 
